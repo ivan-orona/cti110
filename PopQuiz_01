@@ -1,0 +1,17 @@
+#CTI 110
+#Pop Quiz 01
+#Miguel Orona
+#9/26/2017
+#This program will ask for user to inout two numbers and then print the average
+
+#The user will input the first number
+firstNumber = float (input('Enter a number: ')) 
+
+#The user will input the second number
+secondNumber = float (input('Enter a second number to be averaged: '))
+
+#The program will average the two numbers
+average = (firstNumber + secondNumber)/2 
+
+#The program will print the answer
+print ('The average is:',average) 
