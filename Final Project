@@ -1,0 +1,34 @@
+<!--
+ CTI 110
+Final Project
+Miguel Ivan Orona
+December 5, 2017
+-->
+<!DOCTYPE html>
+<html> 
+	<title> Final Project </title> 
+	<head><h1> Primo's Premium Parts</h1></head>
+<body>
+ <body style="background-color:gray;">
+
+	<h3> Your local motorcycle parts dealer in NC! </h3>
+    
+	<nav>&nbsp &nbsp <a href=>Home</a>
+	&nbsp &nbsp <a href="menu.html">Custom Paint</a>
+	&nbsp &nbsp	<a href="music.html">Handlebars</a>
+	&nbsp &nbsp <a href="jobs.html">Seats</a>
+    &nbsp &nbsp <a href="Exhaust.html">Exhaust Systems</a>
+    &nbsp &nbsp <a href="Apparel.html">Apparel</a>
+    &nbsp &nbsp <a href="FAQ.html">FAQ</a></nav>
+	<main>
+	<h3>Our Beliefs</h3>
+    <p> We here at Primo's Premium Parts are firm believers in providing our unique audience and patrons with<br>
+    the quality care and fine attention to detail.</p>
+	</main>
+<div>
+<p>Primo's Premium Parts<br> 
+323 Pine Grove Street<br>
+Fayetteville, NC 28301<br>
+(910) 555-555<br>
+Open 8am-7pm<br></p></div> 
+	<footer> ©2017 Parts dealers Inc. </footer>
